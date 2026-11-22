@@ -39,5 +39,4 @@ that contract it raises ValueError when no pair exists.
 
 ## Verification and remaining work
 All 21 local test methods passed. C examples compiled with warnings enabled.
-No GitHub push, Cursor UI session, or LeetCode submission was performed.
-See COMPLETION_STEPS.md for the remaining account-based steps.
+The source and test records are available in this repository. The project evidence covers local tests, with no verified Cursor session or online LeetCode submission.

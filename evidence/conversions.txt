@@ -15,6 +15,6 @@ fibonacci(7) = [0, 1, 1, 2, 3, 5, 8]
 $ gcc -std=c11 -Wall -Wextra -Werror c_sources/student.c
 Compilation: PASS
 $ ./student
-25BCON0472 Harshvardhan Singh 85.5
+472 Harshvardhan Singh 85.5
 $ python student.py
-25BCON0472 Harshvardhan Singh 85.5
+472 Harshvardhan Singh 85.5
