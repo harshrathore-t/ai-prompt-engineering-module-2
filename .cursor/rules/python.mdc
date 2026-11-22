@@ -1,0 +1,13 @@
+---
+description: Python assignment conventions
+globs: "**/*.py"
+alwaysApply: true
+---
+Use beginner-friendly Python 3.10+ and the standard library.
+Use clear snake_case names and short function docstrings.
+Preserve the task requirements before refactoring.
+Validate factorial and Fibonacci inputs; reject negatives.
+Explain bugs and changes in simple English.
+Use unittest for normal, boundary and invalid-input cases.
+Never invent execution results or submission status.
+Run python -m unittest discover -s tests -v after changes.

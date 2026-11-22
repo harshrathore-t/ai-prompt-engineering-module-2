@@ -1,0 +1,26 @@
+test_average_empty (test_programs.ProgramTests.test_average_empty) ... ok
+test_average_fraction (test_programs.ProgramTests.test_average_fraction) ... ok
+test_average_negative (test_programs.ProgramTests.test_average_negative) ... ok
+test_average_normal (test_programs.ProgramTests.test_average_normal) ... ok
+test_average_single (test_programs.ProgramTests.test_average_single) ... ok
+test_average_zeros (test_programs.ProgramTests.test_average_zeros) ... ok
+test_brackets_extension (test_programs.ProgramTests.test_brackets_extension) ... ok
+test_brackets_invalid (test_programs.ProgramTests.test_brackets_invalid) ... ok
+test_brackets_valid (test_programs.ProgramTests.test_brackets_valid) ... ok
+test_factorial_base (test_programs.ProgramTests.test_factorial_base) ... ok
+test_factorial_negative (test_programs.ProgramTests.test_factorial_negative) ... ok
+test_factorial_normal (test_programs.ProgramTests.test_factorial_normal) ... ok
+test_factorial_type (test_programs.ProgramTests.test_factorial_type) ... ok
+test_fibonacci_base (test_programs.ProgramTests.test_fibonacci_base) ... ok
+test_fibonacci_invalid (test_programs.ProgramTests.test_fibonacci_invalid) ... ok
+test_fibonacci_normal (test_programs.ProgramTests.test_fibonacci_normal) ... ok
+test_student (test_programs.ProgramTests.test_student) ... ok
+test_two_sum_duplicates (test_programs.ProgramTests.test_two_sum_duplicates) ... ok
+test_two_sum_examples (test_programs.ProgramTests.test_two_sum_examples) ... ok
+test_two_sum_negative (test_programs.ProgramTests.test_two_sum_negative) ... ok
+test_two_sum_no_pair (test_programs.ProgramTests.test_two_sum_no_pair) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.001s
+
+OK

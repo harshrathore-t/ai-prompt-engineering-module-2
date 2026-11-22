@@ -1,0 +1,3 @@
+Original average([1, 2]): IndexError: list index out of range
+After loop-only fix: (1 + 2) // 2 = 1 (incorrect)
+Corrected average([1, 2]): 1.5
