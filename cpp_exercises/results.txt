@@ -1,0 +1,7 @@
+PASS  singleNumber([2, 2, 1]) -> 1
+PASS  singleNumber([4, 1, 2, 1, 2]) -> 4
+PASS  singleNumber([-3]) -> -3
+PASS  containsDuplicate([1, 2, 3, 1]) -> True
+PASS  containsDuplicate([1, 2, 3]) -> False
+PASS  containsDuplicate([]) -> False
+PASS  containsDuplicate([-2, -2]) -> True
